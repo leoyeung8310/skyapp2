@@ -1,0 +1,48 @@
+
+/* Class = "UINavigationItem"; title = "Project Detail"; ObjectID = "26c-Zl-19m"; */
+"26c-Zl-19m.title" = "Project Detail";
+
+/* Class = "UIButton"; normalTitle = "登入"; ObjectID = "4Ly-Cl-a3y"; */
+"4Ly-Cl-a3y.normalTitle" = "登入";
+
+/* Class = "UINavigationItem"; title = "Projects"; ObjectID = "6wt-ye-FbK"; */
+"6wt-ye-FbK.title" = "Projects";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "AiC-K0-uDu"; */
+"AiC-K0-uDu.placeholder" = "Email";
+
+/* Class = "UITextField"; text = "leoycy@gmail.com"; ObjectID = "AiC-K0-uDu"; */
+"AiC-K0-uDu.text" = "leoycy@gmail.com";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "Dbz-tK-Mdq"; */
+"Dbz-tK-Mdq.placeholder" = "Title";
+
+/* Class = "UIButton"; normalTitle = "新用戶"; ObjectID = "FQF-aA-SgN"; */
+"FQF-aA-SgN.normalTitle" = "新用戶";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "MIc-h7-25P"; */
+"MIc-h7-25P.normalTitle" = "Send";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "PDe-1d-9nl"; */
+"PDe-1d-9nl.placeholder" = "Password";
+
+/* Class = "UITextField"; text = "123456"; ObjectID = "PDe-1d-9nl"; */
+"PDe-1d-9nl.text" = "123456";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "SX2-6x-PPJ"; */
+"SX2-6x-PPJ.text" = "Detail";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Vtx-Wy-wef"; */
+"Vtx-Wy-wef.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Comment"; ObjectID = "fy1-4j-0XK"; */
+"fy1-4j-0XK.placeholder" = "Comment";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "ksK-Cy-mLS"; */
+"ksK-Cy-mLS.normalTitle" = "Submit";
+
+/* Class = "UINavigationItem"; title = "Login Page"; ObjectID = "p3Y-du-7W4"; */
+"p3Y-du-7W4.title" = "Login Page";
+
+/* Class = "UINavigationItem"; title = "New Project"; ObjectID = "pte-QS-C8d"; */
+"pte-QS-C8d.title" = "New Project";
